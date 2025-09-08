@@ -1,0 +1,14 @@
+[
+  {
+    "type": 1,
+    "options": ["Option1A", "Option1B", "Option1C", "Option1D"]
+  },
+  {
+    "type": 2,
+    "options": ["Option2A", "Option2B", "Option2C", "Option2D"]
+  },
+  {
+    "type": 3,
+    "options": ["Option3A", "Option3B", "Option3C", "Option3D"]
+  }
+]

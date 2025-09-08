@@ -1,0 +1,36 @@
+[
+  {
+    "passages": [
+      "فَتَلَقَّىٰٓ ءَادَمُ مِن رَّبِّهِۦ كَلِمَٰتٍ فَتَابَ عَلَيْهِ ۚ إِنَّهُۥ هُوَ ٱلتَّوَّابُ ٱلرَّحِيمُ",
+      "ثُمَّ ٱصْطَفَىٰهُ رَبُّهُۥ فَتَابَ عَلَيْهِ وَهَدَىٰ"
+    ],
+    "references": [
+      { "surahId": 2, "verseId": 37 },
+      { "surahId": 20, "verseId": 122 }
+    ],
+    "surahs": [2, 20],
+    "correctMatches": {
+      "0": { "surahId": 2, "verseId": 37 },
+      "1": { "surahId": 20, "verseId": 122 }
+    },
+    "type": "2-similar",
+    "explanation": "These two verses mention Adam (عليه السلام) repenting and Allah forgiving him, but each with different wording and context."
+  },
+  {
+    "passages": [
+      "إِنَّ ٱلَّذِينَ كَفَرُوا۟ سَوَآءٌ عَلَيْهِمْ ءَأَنذَرْتَهُمْ أَمْ لَمْ تُنذِرْهُمْ لَا يُؤْمِنُونَ",
+      "وَسَوَآءٌ عَلَيْهِمْ ءَأَنذَرْتَهُمْ أَمْ لَمْ تُنذِرْهُمْ لَا يُؤْمِنُونَ"
+    ],
+    "references": [
+      { "surahId": 2, "verseId": 6 },
+      { "surahId": 36, "verseId": 10 }
+    ],
+    "surahs": [2, 36],
+    "correctMatches": {
+      "0": { "surahId": 2, "verseId": 6 },
+      "1": { "surahId": 36, "verseId": 10 }
+    },
+    "type": "2-similar",
+    "explanation": "These two verses have a different start but similar ending"
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "prompt": "وَٱلضُّحَىٰ * وَٱلَّيْلِ إِذَا سَجَىٰ * مَا وَدَّعَكَ رَبُّكَ وَمَا قَلَىٰ * وَلَلْـَٔاخِرَةُ خَيْرٌۭ لَّكَ مِنَ ٱلْأُولَىٰ * وَلَسَوْفَ يُعْطِيكَ رَبُّكَ فَتَرْضَىٰٓ * ...",
+    "correctAnswer": "أَلَمْ يَجِدْكَ يَتِيمًۭا فَـَٔاوَىٰ",
+    "type": 1,
+    "specificOptions": [
+      "And He guided you to the straight path",
+      "He sheltered you from harm",
+      "And made you rich after poverty"
+    ],
+    "surahId": 93,
+    "verseId": 6
+  },
+  {
+    "id": 2,
+    "prompt": "ٱلَّذِينَ يَجْتَنِبُونَ كَبَـٰٓئِرَ ٱلْإِثْمِ وَٱلْفَوَٰحِشَ إِلَّا ٱللَّمَمَ ۚ إِنَّ رَبَّكَ وَٰسِعُ ٱلْمَغْفِرَةِ ۚ هُوَ أَعْلَمُ بِكُمْ إِذْ أَنشَأَكُم مِّنَ ٱلْأَرْضِ وَإِذْ أَنتُمْ أَجِنَّةٌۭ فِى بُطُونِ أُمَّهَـٰتِكُمْ ۖ فَلَا تُزَكُّوٓا۟ أَنفُسَكُمْ ۖ ...",
+    "correctAnswer": "هُوَ أَعْلَمُ بِمَنِ ٱتَّقَىٰٓ",
+    "type": 1,
+    "specificOptions": [
+      "When the sun rises in full splendor",
+      "As the day reaches its peak",
+      "When the stars fade away"
+    ],
+    "surahId": 53,
+    "verseId": 32
+  }
+]
